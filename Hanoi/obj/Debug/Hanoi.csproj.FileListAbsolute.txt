@@ -1,0 +1,13 @@
+c:\users\anetka\documents\visual studio 2015\Projects\Hanoi\Hanoi\bin\Debug\Hanoi.exe.config
+c:\users\anetka\documents\visual studio 2015\Projects\Hanoi\Hanoi\bin\Debug\Hanoi.exe
+c:\users\anetka\documents\visual studio 2015\Projects\Hanoi\Hanoi\bin\Debug\Hanoi.pdb
+c:\users\anetka\documents\visual studio 2015\Projects\Hanoi\Hanoi\obj\Debug\Hanoi.csprojResolveAssemblyReference.cache
+c:\users\anetka\documents\visual studio 2015\Projects\Hanoi\Hanoi\obj\Debug\Hanoi.exe
+c:\users\anetka\documents\visual studio 2015\Projects\Hanoi\Hanoi\obj\Debug\Hanoi.pdb
+C:\Users\eanegwo\Desktop\Hanoi\Hanoi\bin\Debug\Hanoi.exe.config
+C:\Users\eanegwo\Desktop\Hanoi\Hanoi\bin\Debug\Hanoi.exe
+C:\Users\eanegwo\Desktop\Hanoi\Hanoi\bin\Debug\Hanoi.pdb
+C:\Users\eanegwo\Desktop\Hanoi\Hanoi\obj\Debug\Hanoi.csprojResolveAssemblyReference.cache
+C:\Users\eanegwo\Desktop\Hanoi\Hanoi\obj\Debug\Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\eanegwo\Desktop\Hanoi\Hanoi\obj\Debug\Hanoi.exe
+C:\Users\eanegwo\Desktop\Hanoi\Hanoi\obj\Debug\Hanoi.pdb
