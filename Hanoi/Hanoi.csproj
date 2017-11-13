@@ -45,9 +45,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EndRoundChecker.cs" />
+    <Compile Include="GameConfig.cs" />
+    <Compile Include="GameController.cs" />
+    <Compile Include="GameRound.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="MyStack.cs" />
+    <Compile Include="RoundInfo.cs" />
+    <Compile Include="Statistics.cs" />
+    <Compile Include="Tower.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
