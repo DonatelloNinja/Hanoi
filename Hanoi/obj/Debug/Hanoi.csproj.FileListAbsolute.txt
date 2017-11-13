@@ -11,3 +11,9 @@ C:\Users\eanegwo\Desktop\Hanoi\Hanoi\obj\Debug\Hanoi.csprojResolveAssemblyRefere
 C:\Users\eanegwo\Desktop\Hanoi\Hanoi\obj\Debug\Hanoi.csproj.CoreCompileInputs.cache
 C:\Users\eanegwo\Desktop\Hanoi\Hanoi\obj\Debug\Hanoi.exe
 C:\Users\eanegwo\Desktop\Hanoi\Hanoi\obj\Debug\Hanoi.pdb
+C:\Users\Anetka\Documents\Visual Studio 2015\Projects\GIT\Hanoi\Hanoi\bin\Debug\Hanoi.exe.config
+C:\Users\Anetka\Documents\Visual Studio 2015\Projects\GIT\Hanoi\Hanoi\obj\Debug\Hanoi.exe
+C:\Users\Anetka\Documents\Visual Studio 2015\Projects\GIT\Hanoi\Hanoi\obj\Debug\Hanoi.pdb
+C:\Users\Anetka\Documents\Visual Studio 2015\Projects\GIT\Hanoi\Hanoi\bin\Debug\Hanoi.exe
+C:\Users\Anetka\Documents\Visual Studio 2015\Projects\GIT\Hanoi\Hanoi\bin\Debug\Hanoi.pdb
+C:\Users\Anetka\Documents\Visual Studio 2015\Projects\GIT\Hanoi\Hanoi\obj\Debug\Hanoi.csprojResolveAssemblyReference.cache

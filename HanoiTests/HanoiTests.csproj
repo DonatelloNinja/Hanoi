@@ -49,6 +49,7 @@
   <ItemGroup>
     <Compile Include="StackTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TowerPrinterTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Hanoi\Hanoi.csproj">

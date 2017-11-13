@@ -10,44 +10,52 @@ namespace Hanoi
     {
         public const int DEFAULT_STACK_SIZE = 10;
 
-        private int currentIndex = 0;
-        private int[] stack;
-
+        private int m_currentIndex = 0;
+        private int[] m_stack;
+        
         public MyStack(int size = DEFAULT_STACK_SIZE)
         {
-            stack = new int[size];
+            m_stack = new int[size];
         }
 
         public int Size()
         {
-            return currentIndex;
+            return m_currentIndex;
         }
 
         public void Push(int element)
         {
-            stack[currentIndex] = element;
-            currentIndex++;
+            m_stack[m_currentIndex] = element;
+            m_currentIndex++;
         }
 
         public int Pop()
         {
-            currentIndex--;
-            return stack[currentIndex];
+            m_currentIndex--;
+            return m_stack[m_currentIndex];
         }
 
         public int GetMaxStackSize()
         {
-            return stack.Count();
+            return m_stack.Count();
         }
 
         public void Clear()
         {
-            currentIndex = 0;
+            m_currentIndex = 0;
         }
 
         public bool IsEmpty()
         {
-            return currentIndex == 0;            
+            return m_currentIndex == 0;            
+        }
+
+        public int At(int index)
+        {
+            if (index >= m_currentIndex)
+                throw new IndexOutOfRangeException();
+            else
+                return m_stack[index];
         }
     }
 }

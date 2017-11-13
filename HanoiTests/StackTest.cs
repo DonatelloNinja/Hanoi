@@ -10,6 +10,7 @@ namespace HanoiTests
     public class StackTest
     {
         public const int TEST_ELEMENT = 5;
+
         [Test]
         public void DefaultConstructorShouldSetStackSizeToDefaultValue()
         {
@@ -76,6 +77,35 @@ namespace HanoiTests
             stack.Push(TEST_ELEMENT);
 
             Assert.False(stack.IsEmpty());
+        }
+
+        [Test]
+        public void AtFunctionShouldReturnProperElementFromIndex()
+        {
+            var stack = new MyStack();
+            int index = 0;
+            stack.Push(TEST_ELEMENT);
+
+            Assert.AreEqual(TEST_ELEMENT, stack.At(index));
+        }
+
+        [Test]
+        public void AtFunctionShouldThrowExceptionWhenStackIsEmpty()
+        {
+            var stack = new MyStack();
+            int index = 4;
+
+            Assert.Throws<IndexOutOfRangeException>(() => stack.At(index));
+        }
+
+        [Test]
+        public void AtFunctionShouldThrowExceptionWhenIndexIsGreaterThanStackSize()
+        {
+            var stack = new MyStack();
+            int index = 2;
+            stack.Push(TEST_ELEMENT);
+
+            Assert.Throws<IndexOutOfRangeException>(() => stack.At(index));
         }
     }
 }

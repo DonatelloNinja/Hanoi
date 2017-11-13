@@ -6,7 +6,23 @@ using System.Threading.Tasks;
 
 namespace Hanoi
 {
-    class Tower
+    public class Tower
     {
+        private MyStack m_stack;
+
+        public Tower(int size)
+        {
+            m_stack = new MyStack(size);
+        }
+
+        public void Push(int element)
+        {
+            m_stack.Push(element);
+        }
+
+        public int Pop()
+        {
+            return m_stack.Pop();
+        }
     }
 }

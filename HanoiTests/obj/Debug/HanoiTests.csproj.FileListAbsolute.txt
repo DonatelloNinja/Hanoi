@@ -32,3 +32,19 @@ C:\Users\eanegwo\Desktop\Hanoi\HanoiTests\obj\Debug\HanoiTests.csprojResolveAsse
 C:\Users\eanegwo\Desktop\Hanoi\HanoiTests\obj\Debug\HanoiTests.csproj.CoreCompileInputs.cache
 C:\Users\eanegwo\Desktop\Hanoi\HanoiTests\obj\Debug\HanoiTests.dll
 C:\Users\eanegwo\Desktop\Hanoi\HanoiTests\obj\Debug\HanoiTests.pdb
+C:\Users\Anetka\Documents\Visual Studio 2015\Projects\GIT\Hanoi\HanoiTests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Anetka\Documents\Visual Studio 2015\Projects\GIT\Hanoi\HanoiTests\bin\Debug\nunit.engine.dll
+C:\Users\Anetka\Documents\Visual Studio 2015\Projects\GIT\Hanoi\HanoiTests\bin\Debug\nunit.engine.api.dll
+C:\Users\Anetka\Documents\Visual Studio 2015\Projects\GIT\Hanoi\HanoiTests\bin\Debug\Mono.Cecil.dll
+C:\Users\Anetka\Documents\Visual Studio 2015\Projects\GIT\Hanoi\HanoiTests\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Anetka\Documents\Visual Studio 2015\Projects\GIT\Hanoi\HanoiTests\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Anetka\Documents\Visual Studio 2015\Projects\GIT\Hanoi\HanoiTests\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\Anetka\Documents\Visual Studio 2015\Projects\GIT\Hanoi\HanoiTests\bin\Debug\HanoiTests.dll
+C:\Users\Anetka\Documents\Visual Studio 2015\Projects\GIT\Hanoi\HanoiTests\bin\Debug\HanoiTests.pdb
+C:\Users\Anetka\Documents\Visual Studio 2015\Projects\GIT\Hanoi\HanoiTests\bin\Debug\Hanoi.exe
+C:\Users\Anetka\Documents\Visual Studio 2015\Projects\GIT\Hanoi\HanoiTests\bin\Debug\nunit.framework.dll
+C:\Users\Anetka\Documents\Visual Studio 2015\Projects\GIT\Hanoi\HanoiTests\bin\Debug\Hanoi.pdb
+C:\Users\Anetka\Documents\Visual Studio 2015\Projects\GIT\Hanoi\HanoiTests\bin\Debug\nunit.framework.xml
+C:\Users\Anetka\Documents\Visual Studio 2015\Projects\GIT\Hanoi\HanoiTests\obj\Debug\HanoiTests.csprojResolveAssemblyReference.cache
+C:\Users\Anetka\Documents\Visual Studio 2015\Projects\GIT\Hanoi\HanoiTests\obj\Debug\HanoiTests.dll
+C:\Users\Anetka\Documents\Visual Studio 2015\Projects\GIT\Hanoi\HanoiTests\obj\Debug\HanoiTests.pdb
