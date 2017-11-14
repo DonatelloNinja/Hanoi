@@ -24,5 +24,20 @@ namespace Hanoi
         {
             return m_stack.Pop();
         }
+
+        public int At(int element)
+        {
+            return m_stack.At(element);
+        }
+
+        public int Size()
+        {
+            return m_stack.Size();
+        }
+
+        public bool IsEmpty()
+        {
+            return m_stack.IsEmpty();
+        }
     }
 }

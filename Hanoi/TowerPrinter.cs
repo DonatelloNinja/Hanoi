@@ -16,7 +16,19 @@ namespace Hanoi
 
         protected static string BuildTowerContentAsString(Tower tower)
         {
-            return "";
+            StringBuilder towerRepresentation = new StringBuilder("T:>> ");
+
+            if (!tower.IsEmpty())
+            {
+                for (int i = 0; i < tower.Size(); i++)
+                {
+                    towerRepresentation.Append("[" + tower.At(i) + "] ");
+                }
+            }
+
+            towerRepresentation.Append("=>>");
+           
+            return towerRepresentation.ToString();
         }
     }
 }
